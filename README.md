@@ -63,7 +63,6 @@ The dataset contains patient health and lifestyle information such as:
 - Performance evaluation on training and test data
 - Metrics such as:
   - Accuracy
-  - Mean Absolute Error (MAE)
   - Comparison between train and test performance
 
 ---
